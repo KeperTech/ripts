@@ -17,3 +17,12 @@ The code is ugly as sin (lack of error checking and need to do graceful error ha
 Thanks for trying out ripTS / TSrip and I hope you find it useful. I will be sorting the name issue by the next release.
 
 Dickson Kwong
+
+Instructions for usage of ripTS / TSrip
+
+Use HLS Stream Detector in FireFox to detect streams that you wish to acquire for offline viewing
+https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/
+
+Once you are on a page that uses HLS Stream the Firefox addon will prompt you with a link to the m3u8 file.
+
+A m3u8 file lists all the parts of the video you want to acquire and you copy that m3u8 link and follow the instructions within the python script (litterally copy it into the input box) and it will auto download the files based off the m3u8 location / combine the multiple TS files into one and delete the individual TS files so you are just left with one TS file that you can encode later using FFmpeg https://www.ffmpeg.org/.
