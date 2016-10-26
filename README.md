@@ -1,4 +1,4 @@
-# ripts is a light weight python script that in combination with the Firefox plugin "HLS Stream" can acquire media for offline viewing.  
+# ripTS is a light weight python script that in combination with the Firefox plugin "HLS Stream" can acquire TS format media for offline viewing.
 
 You should only use this software if you have explicit permission or ownership of the media that you are acquiring via this python script. 
 
@@ -8,14 +8,13 @@ There are 2 python scripts
 * ripTS with Tkinter 
 * ripTS w/o Tkinter 
 
-If you do not have Tkinter installed use the TSrip w/o obviously, for those that do not know what Tkinter is, it is a simple GUI for python that is installed on Windows platforms by default so you don't have to paste into a command prompt.
+If you do not have Tkinter installed use the ripTS w/o obviously, for those that do not know what Tkinter is, it is a simple GUI for python that is installed on Windows platforms by default so you don't have to paste into a command prompt but instead an input box.
 
-I have tested both versions on Windows 7 and Debian and they both work in my environments.
+I have tested both versions on Windows 7 and Debian 8 and they both work in my environments.
 
 The code is ugly as sin (lack of error checking and need to do graceful error handling) but the code does work and I will be making improvements in the future but no solid ETA.
 
-Thanks for trying out ripTS and I hope you find it useful. I will be sorting the name issue by the next release.
-
+Thanks for trying out ripTS and I hope you find it useful.
 Dickson Kwong
 
 Instructions for usage of ripTS
