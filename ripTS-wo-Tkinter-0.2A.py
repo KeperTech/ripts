@@ -11,7 +11,6 @@ from urlparse import urlparse
 from posixpath import basename, dirname
 
 global userInputURL
-global fileNAMEfromM38u
 
 def downloadTS(domain):
     # Downloading Section
