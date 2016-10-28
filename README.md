@@ -6,9 +6,11 @@ Does Not need any additional libraries then what is provided in default python i
 * ripTS w/o Tkinter 
 
 Windows / Dos
+
 ![ScreenShot](https://raw.github.com/KeperTech/ripts/master/RipTS-wo-Tk-Screenshot.png)
 
 Debian / Nix*
+
 ![ScreenShot](https://raw.github.com/KeperTech/ripts/master/RipTS-wo-TK-Nix-Screenshot.png)
 
 Needs Tkinter and Multiprocessing Support
