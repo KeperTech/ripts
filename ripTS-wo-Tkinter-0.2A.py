@@ -12,9 +12,6 @@ from posixpath import basename, dirname
 
 global userInputURL
 global fileNAMEfromM38u
-global fileNAMEstartingnumber
-global fileNAMEdoubledigit
-global fileNAMEtripledigit
 
 def downloadTS(domain):
     # Downloading Section
