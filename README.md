@@ -1,6 +1,6 @@
 # ripTS is a light weight python script that in combination with the Firefox plugin "HLS Stream" can acquire TS format media for offline viewing.
 
-Lots of HLS stream ripper varients on GitHub but ripTS works on Windows & Nix, will download all the HLS streams based on the m3u8 file, and will combine them into one file (name of your choice in TK version) and delete the individual TS files so your left with one clean video file. 
+Lots of HLS stream ripper varients on GitHub but ripTS works on Windows & Nix, will download all the HLS streams based on the m3u8 file, and will combine them into one file (name of your choice in Tkinter version) and delete the individual TS files so your left with one clean video file. 
 
 
 * ripTS w/o Tkinter [Latest Version: ripTS-wo-Tkinter-0.2A.py]
