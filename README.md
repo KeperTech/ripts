@@ -9,7 +9,7 @@ Needs Tkinter
 * ripTS with Tkinter
 
 Needs Tkinter and Multiprocessing Support
-Windows default python installs have Tkinter and Multiprocessing support so if your running windows run this one
+(Windows default python installs have Tkinter and Multiprocessing support so if your running windows run this one)
 * ripTS MP with Tikinter
 
 I have tested both versions on Windows 7 and Debian 8 and they both work in my environments.
