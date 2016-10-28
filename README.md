@@ -12,6 +12,8 @@ Needs Tkinter and Multiprocessing Support
 (Windows default python installs have Tkinter and Multiprocessing support so if your running windows run this one)
 * ripTS MP with Tikinter
 
+![ScreenShot](https://raw.github.com/KeperTech/ripts/master/RipTS-Screenshot.png)
+
 I have tested both versions on Windows 7 and Debian 8 and they both work in my environments.
 
 The code is ugly as sin (lack of error checking and need to do graceful error handling, using globals etc) but the code does work and I will be making improvements in the future.
