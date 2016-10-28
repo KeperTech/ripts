@@ -7,7 +7,7 @@ Does Not need any additional libraries then what is provided in default python i
 Windows / Dos
 ![ScreenShot](https://raw.github.com/KeperTech/ripts/master/RipTS-wo-Tk-Screenshot.png)
 Debian / Nix*
-![ScreenShot](https://raw.github.com/KeperTech/ripts/master/RipTS-wo-Tk-Nix-Screenshot.png)
+![ScreenShot](https://raw.github.com/KeperTech/ripts/master/RipTS-wo-TK-Nix-Screenshot.png)
 
 Needs Tkinter and Multiprocessing Support
 (Windows default python installs have Tkinter and Multiprocessing support so if your running windows run this one)
