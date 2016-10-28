@@ -4,10 +4,10 @@ Lots of HLS stream ripper varients on GitHub but ripTS works on Windows & Nix, w
 
 Does Not need any additional libraries then what is provided in default python install both Win / Nix*
 * ripTS w/o Tkinter 
+Windows / Dos
 ![ScreenShot](https://raw.github.com/KeperTech/ripts/master/RipTS-wo-Tk-Screenshot.png)
-
-Needs Tkinter 
-* ripTS with Tkinter
+Debian / Nix*
+![ScreenShot](https://raw.github.com/KeperTech/ripts/master/RipTS-wo-Nix-Tk-Screenshot.png)
 
 Needs Tkinter and Multiprocessing Support
 (Windows default python installs have Tkinter and Multiprocessing support so if your running windows run this one)
