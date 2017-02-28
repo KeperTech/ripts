@@ -2,7 +2,7 @@
 
 Lots of HLS stream ripper varients on GitHub but ripTS works on Windows & Nix, will download all the HLS streams based on the m3u8 file, and will combine them into one file (name of your choice in Tkinter version) and delete the individual TS files so your left with one clean video file. 
 
-ripTS was written in Python 2.7.
+ripTS was written in Python 2.7
 
 New Feature as of 02/28/2017 - Download list added for ripTS MP with Tkinter
 - Create a file called 'ripTS-downloadlist.txt' in the folder where the ripTS python script is located
